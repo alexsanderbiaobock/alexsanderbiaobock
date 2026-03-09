@@ -1,6 +1,5 @@
 **Olá,** <br>
 Bem-vindo(a) ao meu perfil do GitHub.<br>
-<br>
 Sinta-se à vontade para visitar meu perfil no LinkedIn.<br>
 <br>
 <a href="www.linkedin.com/in/alexsander-bs" target="_blank">
